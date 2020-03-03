@@ -1,5 +1,3 @@
-## Welcome to Naplues's GitHub Pages
-
 
 
 ### Basic Information

@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Naplues's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Naplues/naplues.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Basic Information
+My name is **Zhaoqiang Guo (郭肇强)**. My advisor is **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software engineering, especially on **bug localization**, **software quality assurance**, and so on. Welcome to conduct academic exchange.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### Contact Me
+* **E-mail:** gzq@smail.nju.edu.cn
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+* **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. *Boosting crash-inducing change localization with rank-performance-based feature subset selection.* Empirical Software Engineering, 2020: 1-46. DOI: [https://doi.org/10.1007/s10664-020-09802-1](https://doi.org/10.1007/s10664-020-09802-1) 
 
-[Link](url) and ![Image](src)
-```
+* **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou, Baowen Xu. *MAT: A simple yet strong baseline for identifying self-admitted technical debt.*  2019. [arXiv preprint arXiv:1910.13238,](https://arxiv.org/abs/1910.13238)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Naplues/naplues.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

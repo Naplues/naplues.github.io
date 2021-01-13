@@ -1,13 +1,27 @@
-
-
 ### Basic Information
-My name is **Zhaoqiang Guo (郭肇强)**. My advisor is **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/)(周毓明)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction** and so on. Welcome to conduct academic exchange.
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h2>Zhaoqiang Guo</h2>
+      <p><b>Ph.D. candidate</b></p>
+      <p><b>Department of Computer Science and Technology</b></p>
+      <p><b>Wechat:</b> gzqttt</p>
+      <p><b>E-mail:</b> gzq@smail.nju.edu.cn</p>
+      <p><b>Address：南京市栖霞区仙林大道163号南京大学仙林校区，常州楼，邮编210023</b></p>
+    </td>
+    <td width="25%">
+      <img src="/生活照.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Contact Me
-* **E-mail:** gzq@smail.nju.edu.cn
-* **Wechat:** gzqttt
+### Description
+
+My name is **Zhaoqiang Guo (郭肇强)**. My advisor is **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/)(周毓明)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction** and so on. Welcome to conduct academic exchange.
+
 
 ---
 

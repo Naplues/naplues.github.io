@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>Zhaoqiang Guo</h2>
+      <h3>Zhaoqiang Guo</h3>
       <p><b>Status:</b> Ph.D. candidate</p>
       <p><b>Institution: </b>Department of Computer Science and Technology</p>
       <p><b>Wechat:</b> gzqttt</p>

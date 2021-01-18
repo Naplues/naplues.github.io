@@ -39,8 +39,10 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Informal publications
 
-* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang,  Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. **Prioritizing documentation effort: Can we do better?** 2020. [Download](https://arxiv.org/abs/2006.10892) IST. Submitted.
+* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. **Prioritizing documentation effort: Can we do better?** 2020. [Download](https://arxiv.org/abs/2006.10892) IST. Submitted.
 
-* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. **An in-depth understanding of inconsistent labels in multi-version-project defect data sets** 2020. [Download]() TOSEM. Submitted.
+* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang,  Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. **An in-depth understanding of inconsistent labels in multi-version-project defect data sets** 2020. [Download]() TOSEM. Submitted.
+
+* **Zhaoqiang Guo**. Code-line-level defect prediction. Draft.
 
 

@@ -34,7 +34,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **郭肇强**, 刘释然, 谭婷婷, 李言辉, 陈林, 周毓明, 徐宝文. **自承认技术债的研究: 问题、进展与挑战.**  *软件学报 JOS*, 2021,32(-), : xx-xx. 已在线出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6292&journal_id=jos) **CCF 中文A类期刊**
 
-* **郭肇强**, 周慧聪, 刘释然, 李言辉, 陈林, 周毓明, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.**  *软件学报 JOS*, 2020, 31(9): 2826−2854. 已录用出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6087&journal_id=jos) **CCF 中文A类期刊**
+* **郭肇强**, 周慧聪, 刘释然, 李言辉, 陈林, 周毓明, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.**  *软件学报 JOS*, 2021, 31(9): 2826−2854. 已录用出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6087&journal_id=jos) **CCF 中文A类期刊**
 
 
 ### Informal publications
@@ -43,7 +43,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang,  Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. **An in-depth understanding of inconsistent labels in multi-version-project defect data sets** 2020. [Download]() TOSEM. Submitted.
 
-* 周慧聪, **郭肇强**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对缺陷定位方法的影响分析.** *软件学报 JOS*, 2020. Submitted.
+* 周慧聪, **郭肇强**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对缺陷定位方法的影响分析.** *软件学报 JOS*, 2021. Submitted.
+
+* 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. Submitted.
 
 * **Zhaoqiang Guo**. Code-line-level defect prediction. Draft.
 

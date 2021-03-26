@@ -53,7 +53,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="white">Show statistics</font> </div>
 
 <div id="statistics_info" style="float: right; position: fixed; right: 20px; bottom: 30px;">
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5gculvf1rzz&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5cm8k7u6uwr&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
   <a href="https://info.flagcounter.com/JN38"><img src="https://s05.flagcounter.com/count2/JN38/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 

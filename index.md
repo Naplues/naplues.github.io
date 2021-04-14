@@ -47,7 +47,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. Submitted.
 
-* **Zhaoqiang Guo**. Code-line-level defect prediction. Draft.
+* **Zhaoqiang Guo**, Yuming Zhou. **Code-line-level defect prediction: How far have we come and how far yet to go?.** 2021. EMSE Coming soon.
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="white">Show statistics</font> </div>

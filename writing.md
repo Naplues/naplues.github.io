@@ -1,4 +1,4 @@
-# A guidance to writing.
+﻿# A guidance to writing.
 
 ---
 ## Word
@@ -26,6 +26,8 @@ incorporate 合并, 包含
 portion 部分(可数)
 problematic portions 有问题的部分
 anomaly 异常
+code anomalies 代码异常
+programming errors 编程错误
 hypothesis 假设
 capability 能力
 drawback, shortage, weakness, shortcoming 缺点, 不足
@@ -58,6 +60,7 @@ incrementally 递增地, 逐渐地
 
 ### Phrase
 
+partition ... into ... and ... 把...分割为...和...
 be intended to 打算 目的是
 be plagued by 被...困扰
 be augmented with 被...增强

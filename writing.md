@@ -8,7 +8,7 @@
 depict, characterize 刻画, 描绘
 retain 保留, 继续持有
 determine 决定,查明
-augment 加强
+augment,boost 加强
 imitate 模仿
 utility 效用
 mitigate, alleviate 缓解,减缓,减轻

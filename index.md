@@ -21,7 +21,7 @@
 
 ### Description
 
-My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/)(周毓明)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction** and so on. Welcome to conduct academic exchange. **[Writing](https://naplues.github.io/writing.md)**
+My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/)(周毓明)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction** and so on. Welcome to conduct academic exchange. **[Writing](https://naplues.github.io/writing.html)**
 
 
 ---

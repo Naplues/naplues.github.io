@@ -28,9 +28,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
-* **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. **How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.** *ACM Transactions on Software Engineering and Methodology (TOSEM)* 2021. Accepted. **CCF A Journal**
+* **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. **How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.** *ACM Transactions on Software Engineering and Methodology (TOSEM)* 2021. Accepted. **CCF-A Journal**
 
-* **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. **Boosting crash-inducing change localization with rank-performance-based feature subset selection.** *Empirical Software Engineering (EMSE)*, 25(3), 2020: 1905-1950. [Download](https://doi.org/10.1007/s10664-020-09802-1) **CCF B Journal**
+* **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. **Boosting crash-inducing change localization with rank-performance-based feature subset selection.** *Empirical Software Engineering (EMSE)*, 25(3), 2020: 1905-1950. [Download](https://doi.org/10.1007/s10664-020-09802-1) **CCF-B Journal**
 
 * **郭肇强**, 刘释然, 谭婷婷, 李言辉, 陈林, 周毓明, 徐宝文. **自承认技术债的研究: 问题、进展与挑战.**  *软件学报 JOS*, 2021,32(-), : xx-xx. 已在线出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6292&journal_id=jos) **CCF 中文A类期刊**
 
@@ -47,7 +47,13 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. Submitted.
 
-* **Zhaoqiang Guo**, Yuming Zhou. **Code-line-level defect prediction: How far have we come and how far yet to go?.** 2021. EMSE Coming soon.
+* **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Yuming Zhou. **Code-line-level defect prediction: How far have we come and how far yet to go?** 2021. EMSE. Coming soon.
+
+* **Zhaoqiang Guo**, Yuming Zhou. **A systematic literature review on static analysis warnings: Research perspectives, progresses, challenges and prospects.** 2021. TOSEM. Coming soon.
+
+---
+
+Last updated: April, 2021
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="white">Show statistics</font> </div>

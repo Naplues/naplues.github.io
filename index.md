@@ -43,9 +43,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang,  Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. **An in-depth understanding of inconsistent labels in multi-version-project defect data sets** 2021. [Download]() TOSEM. Submitted.
 
-* 周慧聪, **郭肇强**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对缺陷定位方法的影响分析.** *软件学报 JOS*, 2021. Submitted.
+* 周慧聪, **郭肇强**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对缺陷定位方法的影响分析.** *软件学报 JOS*, 2021. 修改中.
 
-* 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. Submitted.
+* 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. 已投稿.
 
 * **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Yuming Zhou. **Code-line-level defect prediction: How far have we come and how far yet to go?** 2021. EMSE. Coming soon.
 

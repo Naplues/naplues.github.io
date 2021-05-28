@@ -28,7 +28,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
-* **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. **How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.** *ACM Transactions on Software Engineering and Methodology (TOSEM)* 2021. Accepted. **CCF-A Journal**
+* **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. **How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.** *ACM Transactions on Software Engineering and Methodology (TOSEM)* 2021. [Download](https://github.com/Naplues/naplues.github.io/blob/master/TOSEM-3004-45_LR.pdf) **CCF-A Journal**
 
 * **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. **Boosting crash-inducing change localization with rank-performance-based feature subset selection.** *Empirical Software Engineering (EMSE)*, 25(3), 2020: 1905-1950. [Download](https://doi.org/10.1007/s10664-020-09802-1) **CCF-B Journal**
 

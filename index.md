@@ -36,21 +36,6 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **郭肇强**, 周慧聪, 刘释然, 李言辉, 陈林, 周毓明, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.**  *软件学报 JOS*, 2020, 31(9): 2826−2854. 已录用出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6087&journal_id=jos) **CCF 中文A类期刊**
 
-* 周慧聪, **郭肇强(共同一作)**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响分析.** *软件学报 JOS*, 2021. 复审中.  [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=xxxx&journal_id=jos)  **CCF 中文A类期刊**
-
-
-### Informal publications
-
-* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. **Prioritizing documentation effort: Can we do better?** *Information and Software Technology (IST)* 2021. [Download](https://arxiv.org/abs/2006.10892) Revised. **CCF-B Journal**
-
-* Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang,  Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. **An in-depth understanding of inconsistent labels in multi-version-project defect data sets.** *ACM Transactions on Software Engineering and Methodology (TOSEM)* 2021. [Download]() Submitted. **CCF-A Journal**
-
-* 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. **面向对象软件度量阈值确定方法研究：问题、进展与挑战.** *软件学报 JOS*, 2021. 初审后修改. [Download]()  **CCF 中文A类期刊**
-
-* **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Yuming Zhou. **Code-line-level bugginess identification: How far have we come and how far yet to go?** 2021. Coming soon.
-
-* **Zhaoqiang Guo**, Yuming Zhou. **A systematic literature review on static analysis warnings: Research perspectives, progresses, challenges and prospects.** 2021. Coming soon.
-
 ---
 
 Last updated: June, 2021

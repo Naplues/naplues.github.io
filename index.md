@@ -36,7 +36,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **郭肇强**, 周慧聪, 刘释然, 李言辉, 陈林, 周毓明, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.**  *软件学报 JOS*, 2020, 31(9): 2826−2854. 已录用出版. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6087&journal_id=jos) **CCF 中文A类期刊**
 
-* 周慧聪, **郭肇强**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响分析.**  *软件学报 JOS*, 2021, 3x(-): xx-xx. 已录用. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=xxxx&journal_id=jos) **CCF 中文A类期刊**
+* 周慧聪, **郭肇强(共同一作)**, 梅元清, 李言辉, 陈林, 周毓明. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响分析.**  *软件学报 JOS*, 2021, 3x(-): xx-xx. 已录用. [Download](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=xxxx&journal_id=jos) **CCF 中文A类期刊**
 
 ---
 

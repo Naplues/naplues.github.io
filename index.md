@@ -4,12 +4,12 @@
   <tr>
     <td width="75%">
       <h3>Zhaoqiang Guo</h3>
-      <p><b>`Status`:</b> Ph.D. candidate</p>
-      <p><b>`Institution`:</b>Department of Computer Science and Technology</p>
-      <p><b>`Wechat`:</b> gzqttt</p>
-      <p><b>`E-mail`:</b> gzq@smail.nju.edu.cn</p>
-      <p><b>`Postcode`:</b> 210023</p>
-      <p><b>`Address`:</b> Nanjing University, No. 163, Xianlin Road, Nanjing, Jiangsu Province, P.R. China</p>
+      <p><b>Status:</b> Ph.D. candidate</p>
+      <p><b>Institution:</b>Department of Computer Science and Technology</p>
+      <p><b>Wechat:</b> gzqttt</p>
+      <p><b>E-mail:</b> gzq@smail.nju.edu.cn</p>
+      <p><b>Postcode:</b> 210023</p>
+      <p><b>Address:</b> Nanjing University, No. 163, Xianlin Road, Nanjing, Jiangsu Province, P.R. China</p>
     </td>
     <td width="25%">
       <img src="/生活照.jpg" width="100%">
@@ -45,7 +45,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 Last updated: July, 2021
 
 <!-------- 统计信息模块 -------->
-<div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="black">Show statistics</font> </div>
+<div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>
 
 <div id="statistics_info" style="float: right; position: fixed; right: 20px; bottom: 30px;">
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5cm8k7u6uwr&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>

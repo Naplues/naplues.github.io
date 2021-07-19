@@ -30,9 +30,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. [**How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.**](https://naplues.github.io/) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2021) Accepted.***
 
-* **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(EMSE-2020)***, 25(3), 1905-1950.
+* **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
 
-* **`CCF-B Journal`** Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. [**Prioritizing documentation effort: Can we do it simpler but better?**](https://naplues.github.io/) *Information and Software Technology **(IST-2021) Accepted.***
+* **`CCF-B Journal`** Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. [**Prioritizing documentation effort: Can we do it simpler but better?**](https://www.sciencedirect.com/science/article/pii/S0950584921001440) *Information and Software Technology **(IST-2021)***, 140.
 
 * **`CCF 中文A类期刊`** **郭肇强**, 刘释然, 谭婷婷, 李言辉, 陈林, 周毓明, 徐宝文. [**自承认技术债的研究: 问题、进展与挑战.**](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6292&journal_id=jos) *软件学报 **(JOS-2021) 已录用在线出版.***
 

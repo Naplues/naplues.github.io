@@ -6,7 +6,6 @@
       <h3>Zhaoqiang Guo</h3>
       <p><b>Status:</b> Ph.D. candidate</p>
       <p><b>Institution:</b>Department of Computer Science and Technology</p>
-      <p><b>Wechat:</b> gzqttt</p>
       <p><b>E-mail:</b> gzq@smail.nju.edu.cn</p>
       <p><b>Postcode:</b> 210023</p>
       <p><b>Address:</b> Nanjing University, No. 163, Xianlin Road, Nanjing, Jiangsu Province, P.R. China</p>

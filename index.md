@@ -39,6 +39,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF 中文A类期刊`** 周慧聪, **郭肇强(共同一作)**, 梅元清, 李言辉, 陈林, 周毓明. [**版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响分析.**](https://naplues.github.io/) *软件学报 **(JOS-2021) 已录用.***
 
+* **`CCF 中文A类期刊`** 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明. [**面向对象软件度量阈值的确定方法：问题、进展与挑战.**](https://naplues.github.io/) *软件学报 **(JOS-2021) 已录用.***
+
 ---
 
 ### Appendix

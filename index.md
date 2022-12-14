@@ -27,6 +27,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
+* **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou. [**Code-line-level bugginess identification: How far have we come, and how far have we yet to go?**](#) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2022)***, Accepted.
+
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. [**How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.**](https://dl.acm.org/doi/10.1145/3447247) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2021)***, 30(4), 45:1-45:56.
 
 * **`CCF-A Journal`**  Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang, Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. [**Inconsistent defect labels: Essential, causes, and influence.**](https://ieeexplore.ieee.org/document/9729569) IEEE Transactions on Software Engineering (TSE). Accepted.
@@ -55,7 +57,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-Last updated: July, 2022
+Last updated: December, 2022
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>

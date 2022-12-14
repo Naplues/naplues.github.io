@@ -31,11 +31,11 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. [**How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.**](https://dl.acm.org/doi/10.1145/3447247) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2021)***, 30(4), 45:1-45:56.
 
-* **`CCF-A Journal`**  Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang, Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. [**Inconsistent defect labels: Essential, causes, and influence.**](https://ieeexplore.ieee.org/document/9729569) IEEE Transactions on Software Engineering (TSE). Accepted.
-
-* **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
+* **`CCF-A Journal`**  Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang, Lin Chen, Zhongbin Sun, Yuming Zhou, Baowen Xu. [**Inconsistent defect labels: Essential, causes, and influence.**](https://ieeexplore.ieee.org/document/9729569) *IEEE Transactions on Software Engineering **(TSE)***. Accepted.
 
 * **`CCF-B Journal`** Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou, Baowen Xu. [**Prioritizing documentation effort: Can we do it simpler but better?**](https://www.sciencedirect.com/science/article/pii/S0950584921001440) *Information and Software Technology **(IST-2021)***, 140.
+
+* **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
 
 * **`CCF 中文A类期刊`** **郭肇强**, 周慧聪, 刘释然, 李言辉, 陈林, 周毓明, 徐宝文. [**基于信息检索的缺陷定位: 问题、进展与挑战.**](http://www.jos.org.cn/jos/article/abstract/6087?st=search) *软件学报 6087 **(JOS-2020)***, 31(9): 2826−2854.
 

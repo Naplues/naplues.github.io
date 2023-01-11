@@ -20,7 +20,7 @@
 
 ### Introduction
 
-My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. I have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction**. Welcome to contact me.
+My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. I have received my Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction**. Currently, I am a software engineering researcher at 2012 lab of Huawei. My current interests focus on empirical software engineering, especially on **code review/peer review**. Welcome to contact me.
 
 
 ---

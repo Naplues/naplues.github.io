@@ -4,11 +4,11 @@
   <tr>
     <td width="75%">
       <h3>Zhaoqiang Guo</h3>
-      <p><b>Status:</b> Ph.D. candidate</p>
-      <p><b>Institution:</b>Department of Computer Science and Technology</p>
-      <p><b>E-mail:</b> gzq@smail.nju.edu.cn</p>
-      <p><b>Postcode:</b> 210023</p>
-      <p><b>Address:</b> Nanjing University, No. 163, Xianlin Road, Nanjing, Jiangsu Province, P.R. China</p>
+      <p><b>Status:</b> Ph.D. </p>
+      <p><b>Institution:</b>Software Application Technology Lab, Huawei Technologies Co., Ltd.</p>
+      <p><b>E-mail:</b> gzq@smail.nju.edu.cn guozhaoqiang@huawei.com</p>
+      <p><b>Postcode:</b> 310051</p>
+      <p><b>Address:</b> Huawei Hangzhou Research Institute, No. 410, Jianghong Road, Hangzhou, Zhejiang Province, P.R. China</p>
     </td>
     <td width="25%">
       <img src="/生活照.jpg" width="100%">
@@ -20,7 +20,7 @@
 
 ### Introduction
 
-My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. I am studying in the Department of Computer Science and Technology at Nanjing University. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction**. Welcome to contact me.
+My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. I have received Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction**. Welcome to contact me.
 
 
 ---

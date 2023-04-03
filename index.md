@@ -37,6 +37,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
 
+* **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](#) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***.
+
 * **`CCF 中文A类期刊`** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明. [**软件缺陷预测模型间的比较实验：问题、进展与挑战.**](http://www.jos.org.cn/jos/article/abstract/6714?st=search) *软件学报 6714 **(JOS-2022)***, 已录用.
 
 * **`CCF 中文A类期刊`** 周慧聪, **郭肇强(共同一作)**, 梅元清, 李言辉, 陈林, 周毓明. [**版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.**](http://www.jos.org.cn/jos/article/abstract/6401?st=search) *软件学报 6401 **(JOS-2021)***, 已录用.

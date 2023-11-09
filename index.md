@@ -27,9 +27,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
-* **`CCF-A Journal`**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://ieeexplore.ieee.org/document/######) *IEEE Transactions on Software Engineering **(TSE)***. Accepted.
+* **`CCF-A Journal`**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://www.computer.org/csdl/journal/ts/5555/01/10305541/1RKAwH9PqkE) *IEEE Transactions on Software Engineering **(TSE)***. Accepted.
 
-* **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou. [**Code-line-level bugginess identification: How far have we come, and how far have we yet to go?**](#) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2022)***, Accepted.
+* **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou. [**Code-line-level bugginess identification: How far have we come, and how far have we yet to go?**](https://dl.acm.org/doi/10.1145/3582572) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2022)***, 32(4), 102:1-102:55.
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou. [**How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.**](https://dl.acm.org/doi/10.1145/3447247) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2021)***, 30(4), 45:1-45:56.
 
@@ -39,9 +39,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
 
-* **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](#) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***.
+* **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](https://www.worldscientific.com/doi/10.1142/S0218194023500110) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***, 33(5), 651-695.
 
-* **`CCF 中文A类期刊`** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明. [**测试集有效性评价：问题、进展与挑战.**](#) *软件学报*, 已录用.
+* **`CCF 中文A类期刊`** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/mj038) *软件学报*, 已录用.
 
 * **`CCF 中文A类期刊`** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明. [**软件缺陷预测模型间的比较实验：问题、进展与挑战.**](http://www.jos.org.cn/jos/article/abstract/6714?st=search) *软件学报 6714 **(JOS-2022)***, 已录用.
 
@@ -63,7 +63,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-Last updated: April, 2023
+Last updated: Nov, 2023
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>

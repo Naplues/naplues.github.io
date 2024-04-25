@@ -39,6 +39,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-B Journal`** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) *Empirical Software Engineering **(ESE-2020)***, 25(3), 1905-1950.
 
+* Deep learning or classical machine learning? An empirical study on line-level software defect prediction.
+
 * **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](https://www.worldscientific.com/doi/10.1142/S0218194023500110) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***, 33(5), 651-695.
 
 * **`CCF 中文A类期刊`** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/mj038) *软件学报*, 已录用.

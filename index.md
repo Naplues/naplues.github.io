@@ -27,6 +27,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
+* **`CSUR Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) *arXiv **(CSUR-2023)***.
+
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://ieeexplore.ieee.org/document/10305541/) *IEEE Transactions on Software Engineering **(TSE-2023)***. 49(12), 5154-5188.
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou. [**Code-line-level bugginess identification: How far have we come, and how far have we yet to go?**](https://dl.acm.org/doi/10.1145/3582572) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2022)***, 32(4), 102:1-102:55.

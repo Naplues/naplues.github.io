@@ -27,7 +27,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ### Publications
 
-* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**CEDAR: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**] ASE 2024.
+* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**CEDAR: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](#) ASE 2024 Accepted.
 
 * **`arXiv Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) ***arXiv***.
 

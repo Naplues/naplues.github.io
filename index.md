@@ -50,7 +50,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](https://www.worldscientific.com/doi/10.1142/S0218194023500110) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***, 33(5), 651-695.
 
-* **`CCF 中文A类期刊`** 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明. [**基于深度学习的软件漏洞预测：问题、进展与挑战.**]([mj038](https://www.jos.org.cn/jos/article/abstract/#) *软件学报*, 2024. 已录用.
+* **`CCF 中文A类期刊`** 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明. [**基于深度学习的软件漏洞预测：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/#) *软件学报*, 2024. 已录用.
 
 * **`CCF 中文A类期刊`** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/mj038) *软件学报*, 已录用.
 

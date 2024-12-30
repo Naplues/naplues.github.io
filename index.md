@@ -26,10 +26,11 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 ---
 
 ### Publications
-
-* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**CEDAR: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](#) ASE 2024 Accepted.
-
 * **`arXiv Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) ***arXiv***.
+
+* **`CCF-A Conference`** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia. [**Test Intention Guided LLM-based Unit Test Generation.**](#) ICSE 2025 Accepted.
+
+* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508) **ASE-2024**. 1345-1357.
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://ieeexplore.ieee.org/document/10305541/) *IEEE Transactions on Software Engineering **(TSE-2023)***. 49(12), 5154-5188.
 
@@ -48,6 +49,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 * **`CCF-B Journal`** Xutong Liu, Shiran Liu, **Zhaoqiang Guo**, Peng Zhang, Yibiao Yang, Huihui Liu, Hongmin Lu, Yanhui Li, Lin Chen, Yuming Zhou. [**Towards a framework for reliable performance evaluation in defect prediction.**](https://#)  *Sci. Comput. Program, (SCP-2024)*, 238: 103164.
 
 * **`CCF-C Journal`** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](https://www.worldscientific.com/doi/10.1142/S0218194023500110) *International Journal on Software Engineering and Knowledge Engineering **(IJSEKE-2023)***, 33(5), 651-695.
+
+* **`CCF 中文A类期刊`** 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明. [**基于深度学习的软件漏洞预测：问题、进展与挑战.**]([mj038](https://www.jos.org.cn/jos/article/abstract/#) *软件学报*, 2024. 已录用.
 
 * **`CCF 中文A类期刊`** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/mj038) *软件学报*, 已录用.
 
@@ -71,7 +74,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-Last updated: May, 2024
+Last updated: Dec, 2024
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>

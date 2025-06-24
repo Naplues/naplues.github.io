@@ -26,6 +26,8 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 ---
 
 ### Publications
+* **`arXiv Journal`** Bei Chu, Yang Feng, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. [**Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models.**](https://arxiv.org/abs/2506.09002) ***arXiv***.
+
 * **`arXiv Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) ***arXiv***.
 
 * **`CCF-A Conference`** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia. [**Test Intention Guided LLM-based Unit Test Generation.**](#) ICSE 2025 Accepted.
@@ -74,7 +76,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-Last updated: Dec, 2024
+Last updated: June, 2025
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>

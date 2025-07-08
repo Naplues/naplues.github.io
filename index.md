@@ -30,9 +30,9 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 * **`arXiv Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) ***arXiv***.
 
-* **`CCF-A Conference`** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia. [**Test Intention Guided LLM-based Unit Test Generation.**](#) ICSE 2025 Accepted.
+* **`CCF-A Conference`** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia. [**Test Intention Guided LLM-based Unit Test Generation.**](https://ieeexplore.ieee.org/document/11029762/) ***ICSE 2025*** 1026-1038.
 
-* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508) **ASE-2024**. 1345-1357.
+* **`CCF-A Conference`** Di Wu, Lin Shi, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508) ***ASE-2024***. 1345-1357.
 
 * **`CCF-A Journal`**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://ieeexplore.ieee.org/document/10305541/) *IEEE Transactions on Software Engineering **(TSE-2023)***. 49(12), 5154-5188.
 
@@ -76,7 +76,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-Last updated: June, 2025
+Last updated: July, 2025
 
 <!-------- 统计信息模块 -------->
 <div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>

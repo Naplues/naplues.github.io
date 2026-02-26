@@ -26,7 +26,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 ---
 
 ### Publications
-* **`CCF-A Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2026)***, Accepted.
+* **`CCF-A Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A Survey on Modern Code Review: Progresses, Challenges and Opportunities.**](https://arxiv.org/pdf/2405.18216) *ACM Transactions on Software Engineering and Methodology **(TOSEM-2026)***, Accepted.
 
 * **`CCF-A Conference`** Bei Chu, Yang Feng, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. [**Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models.**](https://arxiv.org/abs/2506.09002) ***ASE2025***. Accepted.
 

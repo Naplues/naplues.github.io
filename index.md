@@ -11,7 +11,7 @@
       <p><b>Address:</b> Huawei Hangzhou Research Institute, No. 410, Jianghong Road, Hangzhou, Zhejiang Province, P.R. China</p>
     </td>
     <td width="25%">
-      <img src="/生活照.jpg" width="100%">
+      <img src="photos/2016.jpg" width="100%">
     </td>
   </tr>
 </table>

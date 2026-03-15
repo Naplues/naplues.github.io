@@ -1,4 +1,4 @@
-# 郭肇强
+# 郭肇强个人简历
 
 - **应聘岗位：** 浙江大学 平台“百人计划”研究员
 - **最高学位：** 南京大学计算机科学与技术专业博士
@@ -15,11 +15,15 @@
     <th>照片</th>
   </tr>
   <tr>
-    <td><strong>🎂 年龄</strong></td>
-    <td>31周岁</td>
-    <td rowspan="4" style="vertical-align: top;">
-      <img src="D:/Repo/naplues.github.io/photos/2022.jpg" alt="个人照片" width="120">
+    <td><strong>👤 姓名</strong></td>
+    <td>郭肇强</td>
+    <td rowspan="5" style="vertical-align: top;">
+      <img src="D:/Repo/naplues.github.io/photos/2022.jpg" alt="个人照片" width="150">
     </td>
+  </tr>
+  <tr>
+    <td><strong>🎂 生日</strong></td>
+    <td>1994年12月</td>
   </tr>
   <tr>
     <td><strong>✉️ 邮箱</strong></td>
@@ -43,11 +47,13 @@
 ### 📅 2022-10 ~ 2026-03
 
 - **高级工程师 | 2012/软件工程应用技术实验室 | 华为杭州研究所**
-- **工作职责：** 智能化软件工程应用技术的孵化与落地，专注于AI辅助测试生成。
+- **工作职责：** 
+  - 智能化软件工程应用技术的孵化与落地，专注于AI辅助测试生成。
+  - 高校技术合作项目经理，负责推动高校研究技术在企业内部落地。
 - **工作成果：**
-    - **UTGen-1.0**（面向单函数覆盖率提升，结合代码分支分析和prompt工程）；
-    - **UTGen-2.0**（面向多函数领域适配，结合依赖分析、知识库构建和prompt工程）；
-    - **灵犀-DT**（面向智能开发，结合agent调度和prompt工程）。
+  - **UTGen-1.0**（面向单函数覆盖率提升，结合代码分支分析和prompt工程）；
+  - **UTGen-2.0**（面向多函数领域适配，结合依赖分析、知识库构建和prompt工程）；
+  - **灵犀-DT**（面向智能开发，结合agent调度和prompt工程）。
 
 ## 🎓 教育背景
 

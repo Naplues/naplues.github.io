@@ -18,12 +18,12 @@
     <td><strong>🎂 年龄</strong></td>
     <td>31周岁</td>
     <td rowspan="4" style="vertical-align: top;">
-      <img src="photos/2022.jpg" alt="个人照片" width="120">
+      <img src="D:/Repo/naplues.github.io/photos/2022.jpg" alt="个人照片" width="120">
     </td>
   </tr>
   <tr>
     <td><strong>✉️ 邮箱</strong></td>
-    <td><code>gzq@smail.nju.edu.cn</code></td>
+    <td>gzq@smail.nju.edu.cn</td>
   </tr>
   <tr>
     <td><strong>📞 电话</strong></td>

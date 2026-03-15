@@ -81,7 +81,7 @@
 
 1. **Test Intention Guided LLM-based Unit Test Generation.**
     * 细分领域：单元测试用例生成
-    * *ICSE 2025* (CCF-A类 软工重要期刊)
+    * *ICSE 2025* (CCF-A类 软工顶会)
     * 结合提示词工程和程序分析技术，设计出一套基于AI的单元测试用例生成方案，在公司内部真实代码仓中取得SOTA的编译通过率和覆盖率。
     * [论文链接](https://ieeexplore.ieee.org/document/11029762/)
 

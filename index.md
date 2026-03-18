@@ -25,7 +25,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-### Publications
+## Publications
 
 ### 📚 As the first Author/co-author/corresponding author
 
@@ -77,7 +77,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ---
 
-### Appendix
+## Appendix
 
 [**1. CCF推荐国际学术刊物目录**](https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/)
 

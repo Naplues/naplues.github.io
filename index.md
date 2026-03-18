@@ -27,7 +27,7 @@ My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou
 
 ## Publications
 
-### 📚 As the first Author/co-author/corresponding author
+### 📚 As the first/co-first/corresponding author
 
 - **`CCF-A Journal`** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo***, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A roadmap for modern code review: Challenges and opportunities.**](https://dl.acm.org/doi/10.1145/3800963) ***ACM Transactions on Software Engineering and Methodology***, 2026-02-26, Accepted.
 

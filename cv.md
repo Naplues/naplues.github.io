@@ -18,7 +18,7 @@
     <td><strong>👤 姓名</strong></td>
     <td>郭肇强</td>
     <td rowspan="5" style="vertical-align: top;">
-      <img src="https://github.com/Naplues/naplues.github.io/photos/2022.jpg" alt="个人照片" width="150">
+      <img src="photos/2022.jpg" alt="个人照片" width="150">
     </td>
   </tr>
   <tr>

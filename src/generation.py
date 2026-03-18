@@ -11,14 +11,14 @@ def gen():
     formatted_time = time.strftime('(%Y-%m-%d)', time.localtime())
 
     # 读取Markdown文件
-    with open(os.path.join(project_root, "cv.md"), "r", encoding="utf-8") as f:
+    with open(os.path.join(project_root, "resources/cv.md"), "r", encoding="utf-8") as f:
         markdown_content = f.read()
 
     # 替换图片相对路径为绝对路径
     photo_rel_path = "photos/2022.jpg"
     photo_abs_path = os.path.join(project_root, photo_rel_path)
     markdown_content = markdown_content.replace(
-        f'src="{photo_rel_path}"',
+        f'src="../{photo_rel_path}"',
         f'src="{photo_abs_path}"'
     )
 

@@ -30,17 +30,17 @@ My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's
 
 ## Education and Work Experience
 
-**(2022-10 ~ now) Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China**  
-*Senior Engineer*
-- Research Direction: AI4SE, test generation.
+- **(2022-10 ~ now) Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China**  
+  *Senior Engineer*
+  - Research Direction: AI4SE, test generation.
 
-**(2017-09 ~ 2022-08) Nanjing University, Nanjing, China**  
-*Ph.D. in Computer Science*
-- Research Direction: Software quality assurance.
+- **(2017-09 ~ 2022-08) Nanjing University, Nanjing, China**  
+  *Ph.D. in Computer Science*
+  - Research Direction: Software quality assurance.
 
-**(2013-09 ~ 2017-06) Nanjing University of Science and Technology, Nanjing, China**  
-*B.S. in Computer Science*
-- Relevant Coursework: Data Structures, Algorithms, Database Systems
+- **(2013-09 ~ 2017-06) Nanjing University of Science and Technology, Nanjing, China**  
+  *B.S. in Computer Science*
+  - Relevant Coursework: Data Structures, Algorithms, Database Systems
 
 
 ---

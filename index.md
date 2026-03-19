@@ -6,8 +6,8 @@
       <h3>Zhaoqiang Guo</h3>
       <p><b>Status:</b> Ph.D. </p>
       <p><b>Institution:</b>Software Application Technology Lab, Huawei Technologies Co., Ltd.</p>
-      <p><b>E-mail:</b> gzq@smail.nju.edu.cn</p>
-      <p><b>Postcode:</b> 310051</p>
+      <p><b>E-mail:</b> gzq@smail.nju.edu.cn / gzq1012@outlook.com</p>
+      <p><b>Wechat:</b> gzqttt</p>
       <p><b>Address:</b> Huawei Hangzhou Research Institute, No. 410, Jianghong Road, Hangzhou, Zhejiang Province, P.R. China</p>
     </td>
     <td width="25%">
@@ -16,13 +16,17 @@
   </tr>
 </table>
 
+
 ---
+
 
 ## Introduction
 
 My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's degree from Nanjing University of Science and Technology in 2017, and obtained my Ph.D. from Nanjing University in 2022, under the supervision of Professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. My doctoral research focused on software quality assurance techniques, such as **bug localization**, **self-admitted technical debts**, and **software defect prediction**. Currently, I am working as a Senior Engineer at Huawei, where I conduct research on AI for Software Engineering (AI4SE). Feel free to reach out for academic discussions.
 
+
 ---
+
 
 ## Education and Work Experience
 
@@ -40,6 +44,7 @@ My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's
 
 
 ---
+
 
 ## Publications
 
@@ -84,9 +89,9 @@ Note:
 
 - **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明\*. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6953) ***软件学报***, 2024, 35(2), 532–580.
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. [**软件缺陷预测模型间的比较实验：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6714) ***软件学报***, 2023, 34(2), 582–624.
-
 - **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 周慧聪, **郭肇强(共一)**, 梅元清, 李言辉\*, 陈林, 周毓明\*. [**版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.**](https://www.jos.org.cn/jos/article/abstract/6401) ***软件学报***, 2023, 34(5), 2196–2217.
+
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. [**软件缺陷预测模型间的比较实验：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6714) ***软件学报***, 2023, 34(2), 582–624.
 
 - **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明\*. [**面向对象软件度量阈值的确定方法：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6503) ***软件学报***, 2023, 34(1), 50-102.
 
@@ -96,6 +101,7 @@ Note:
 
 
 ---
+
 
 ## Appendix
 
@@ -108,7 +114,7 @@ Note:
 Last updated: March, 2026
 
 <!-------- 统计信息模块 -------->
-<div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#151515">Show statistics</font> </div>
+<div id="show"  onclick="show()" style="float: right; position: fixed; right: 20px; bottom: 10px;"> <font color="#FFFFFF">Show statistics</font> </div>
 
 <div id="statistics_info" style="float: right; position: fixed; right: 20px; bottom: 30px;">
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5cm8k7u6uwr&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>

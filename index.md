@@ -56,7 +56,7 @@ Note:
 
 - **<span style="color: #C2185B">📚 CCF-A</span>** [**\[View\]**](https://dl.acm.org/doi/10.1145/3800963) Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**\*, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. **A roadmap for modern code review: Challenges and opportunities.** *ACM Transactions on Software Engineering and Methodology*, 2026-02-26, Accepted. **<span style="color: #FF0000">✨NEW✨</span>**
 
-- **<span style="color: #C2185B">arXiv 📚</span>** [**\[View\]**](https://arxiv.org/abs/2511.21382) Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. **Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.** 2025. 
+- **<span style="color: #C2185B">📚 arXiv</span>** [**\[View\]**](https://arxiv.org/abs/2511.21382) Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. **Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.** 2025. 
 
 - **<span style="color: #00CD66">🏛️ CCF-A</span>** [**\[View\]**](https://ieeexplore.ieee.org/document/11334728/) Bei Chu, Yang Feng\*, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. **PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage.** *ASE2025* 2720-2732. 
 
@@ -85,19 +85,19 @@ Note:
 
 ### 📜 Domestic papers
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/7376) 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明\*. **深度学习驱动的软件漏洞预测: 问题、进展与挑战.** *软件学报*, 2025, 36(11), 4906–4952. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/7376) 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明\*. **深度学习驱动的软件漏洞预测: 问题、进展与挑战.** *软件学报*, 2025, 36(11), 4906–4952. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6953) 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明\*. **测试集有效性评价：问题、进展与挑战.** *软件学报*, 2024, 35(2), 532–580. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6953) 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明\*. **测试集有效性评价：问题、进展与挑战.** *软件学报*, 2024, 35(2), 532–580. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6401) 周慧聪, **郭肇强(共一)**, 梅元清, 李言辉\*, 陈林, 周毓明\*. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.** *软件学报*, 2023, 34(5), 2196–2217. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6401) 周慧聪, **郭肇强(共一)**, 梅元清, 李言辉\*, 陈林, 周毓明\*. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.** *软件学报*, 2023, 34(5), 2196–2217. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6714) 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. **软件缺陷预测模型间的比较实验：问题、进展与挑战.** *软件学报*, 2023, 34(2), 582–624. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6714) 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. **软件缺陷预测模型间的比较实验：问题、进展与挑战.** *软件学报*, 2023, 34(2), 582–624. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6503) 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明\*. **面向对象软件度量阈值的确定方法：问题、进展与挑战.** *软件学报*, 2023, 34(1), 50-102. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6503) 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明\*. **面向对象软件度量阈值的确定方法：问题、进展与挑战.** *软件学报*, 2023, 34(1), 50-102. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6292) **郭肇强**, 刘释然, 谭婷婷, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **自承认技术债的研究: 问题、进展与挑战.** *软件学报*, 2022, 33(1), 26-54. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6292) **郭肇强**, 刘释然, 谭婷婷, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **自承认技术债的研究: 问题、进展与挑战.** *软件学报*, 2022, 33(1), 26-54. 
 
-- **<span style="color: #C2185B">📚 CCF 中文A类期刊</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6087) **郭肇强**, 周慧聪, 刘释然, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.** *软件学报*, 2020, 31(9), 2826−2854. 
+- **<span style="color: #C2185B">📚 CCF 中文A类</span>** [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6087) **郭肇强**, 周慧聪, 刘释然, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.** *软件学报*, 2020, 31(9), 2826−2854. 
 
 
 ---

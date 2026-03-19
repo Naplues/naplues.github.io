@@ -20,7 +20,23 @@
 
 ## Introduction
 
-My name is **Zhaoqiang Guo (郭肇强)**. My advisor is professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. I have received my Ph.D. degree in the Department of Computer Science and Technology at Nanjing University since 2022. My research interests focus on software metrics, especially on **bug localization**, **software quality assurance**, **software defect prediction**. Currently, I am a software engineering researcher at software engineering application technology lab of Huawei. My current interests focus on empirical software engineering, especially on **code review/peer review**. Welcome to contact me.
+My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's degree from Nanjing University of Science and Technology in 2017, and obtained my Ph.D. from Nanjing University in 2022, under the supervision of Professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. My doctoral research focused on software quality assurance techniques, such as **bug localization**, **self-admitted technical debts**, and **software defect prediction**. Currently, I am working as a Senior Engineer at Huawei, where I conduct research on AI for Software Engineering (AI4SE). Feel free to reach out for academic discussions.
+
+---
+
+## Education and Work Experience
+
+**(2022-10 ~ now) Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China**  
+*Senior Engineer*
+- Research Direction: AI4SE, test generation.
+
+**(2017-09 ~ 2022-08) Nanjing University, Nanjing, China**  
+*Ph.D. in Computer Science*
+- Research Direction: Software quality assurance.
+
+**(2013-09 ~ 2017-06) Nanjing University of Science and Technology, Nanjing, China**  
+*B.S. in Computer Science*
+- Relevant Coursework: Data Structures, Algorithms, Database Systems
 
 
 ---

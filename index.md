@@ -49,8 +49,8 @@ My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's
 ## Publications
 
 Note: 
-📚 refers to <span style="color: #C2185B">a Journal paper</span>,
-🏛️ refers to <span style="color: #1976D2">a Conference paper</span>.
+📚 refers to <span style="color: #C2185B"><b>a Journal paper</b></span>,
+🏛️ refers to <span style="color: #66CDAA"><b>a Conference paper</b></span>.
 
 ### 📜 International Papers
 
@@ -58,11 +58,11 @@ Note:
 
 - **<span style="color: #FFA000">arXiv 📜</span>** Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. **Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.** 2025. [**\[View\]**](https://arxiv.org/abs/2511.21382)
 
-- **<span style="color: #FFF8DC">CCF-A 🏛️</span>** Bei Chu, Yang Feng\*, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. **PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage.** *ASE2025* 2720-2732. [**\[View\]**](https://ieeexplore.ieee.org/document/11334728/)
+- **<span style="color: #66CDAA">CCF-A 🏛️</span>** Bei Chu, Yang Feng\*, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. **PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage.** *ASE2025* 2720-2732. [**\[View\]**](https://ieeexplore.ieee.org/document/11334728/)
 
-- **<span style="color: #FFF8DC">CCF-A 🏛️</span>** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia\*. **Test Intention Guided LLM-based Unit Test Generation.** *ICSE-2025* 1026-1038. [**\[View\]**](https://ieeexplore.ieee.org/document/11029762/)
+- **<span style="color: #66CDAA">CCF-A 🏛️</span>** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia\*. **Test Intention Guided LLM-based Unit Test Generation.** *ICSE-2025* 1026-1038. [**\[View\]**](https://ieeexplore.ieee.org/document/11029762/)
 
-- **<span style="color: #FFF8DC">CCF-A 🏛️</span>** Di Wu, Lin Shi\*, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. **iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.** *ASE-2024*. 1345-1357.  [**\[View\]**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508)
+- **<span style="color: #66CDAA">CCF-A 🏛️</span>** Di Wu, Lin Shi\*, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. **iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.** *ASE-2024*. 1345-1357.  [**\[View\]**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508)
 
 - **<span style="color: #C2185B">CCF-B 📚</span>** Yufei Zhou, Xutong Liu, **Zhaoqiang Guo**, Yuming Zhou\*, Corey Zhang, Junyan Qian. **Deep learning or classical machine learning? An empirical study on line-level software defect prediction.** *Journal of Software: Evolution and Process*, 2024, 36(10). [**\[View\]**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2696)
 

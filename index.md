@@ -54,50 +54,50 @@ Note:
 
 ### 📜 International Papers
 
-- **<span style="color: #C2185B">CCF-A 📚</span>** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**\*, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. [**A roadmap for modern code review: Challenges and opportunities.**](https://dl.acm.org/doi/10.1145/3800963) ***ACM Transactions on Software Engineering and Methodology***, 2026-02-26, Accepted.
+- **<span style="color: #C2185B">CCF-A 📚</span>** Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**\*, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. **A roadmap for modern code review: Challenges and opportunities.** *ACM Transactions on Software Engineering and Methodology*, 2026-02-26, Accepted. [**\[View\]**](https://dl.acm.org/doi/10.1145/3800963)
 
-- **<span style="color: #FFA000">arXiv</span>** Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. [**Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.**](https://arxiv.org/abs/2511.21382) 2025.
+- **<span style="color: #FFA000">arXiv 📜</span>** Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. **Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.** 2025. [**\[View\]**](https://arxiv.org/abs/2511.21382)
 
-- **<span style="color: #1976D2">CCF-A 🏛️</span>** Bei Chu, Yang Feng\*, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. [**PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage.**](https://ieeexplore.ieee.org/document/11334728/) ***ASE2025*** 2720-2732.
+- **<span style="color: #1976D2">CCF-A 🏛️</span>** Bei Chu, Yang Feng\*, Kui Liu, Hange Shi, Zifan Nan, **Zhaoqiang Guo**, Baowen Xu. **PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage.** *ASE2025* 2720-2732. [**\[View\]**](https://ieeexplore.ieee.org/document/11334728/)
 
-- **<span style="color: #1976D2">CCF-A 🏛️</span>** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia\*. [**Test Intention Guided LLM-based Unit Test Generation.**](https://ieeexplore.ieee.org/document/11029762/) ***ICSE-2025*** 1026-1038.
+- **<span style="color: #1976D2">CCF-A 🏛️</span>** Zifan Nan, **Zhaoqiang Guo**, Kui Liu, Xin Xia\*. **Test Intention Guided LLM-based Unit Test Generation.** *ICSE-2025* 1026-1038. [**\[View\]**](https://ieeexplore.ieee.org/document/11029762/)
 
-- **<span style="color: #1976D2">CCF-A 🏛️</span>** Di Wu, Lin Shi\*, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. [**iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508) ***ASE-2024***. 1345-1357.
+- **<span style="color: #1976D2">CCF-A 🏛️</span>** Di Wu, Lin Shi\*, **Zhaoqiang Guo**, Kui Liu, Weiguang Zhuang,Yuqi Zhong, Li Zhang. **iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.** *ASE-2024*. 1345-1357.  [**\[View\]**](https://dl.acm.org/doi/pdf/10.1145/3691620.3695508)
 
-- **<span style="color: #C2185B">CCF-B 📚</span>** Yufei Zhou, Xutong Liu, **Zhaoqiang Guo**, Yuming Zhou\*, Corey Zhang, Junyan Qian. [**Deep learning or classical machine learning? An empirical study on line-level software defect prediction.**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2696)  ***Journal of Software: Evolution and Process***, 2024, 36(10).
+- **<span style="color: #C2185B">CCF-B 📚</span>** Yufei Zhou, Xutong Liu, **Zhaoqiang Guo**, Yuming Zhou\*, Corey Zhang, Junyan Qian. **Deep learning or classical machine learning? An empirical study on line-level software defect prediction.** *Journal of Software: Evolution and Process*, 2024, 36(10). [**\[View\]**](https://onlinelibrary.wiley.com/doi/10.1002/smr.2696)
 
-- **<span style="color: #C2185B">CCF-B 📚</span>** Xutong Liu, Shiran Liu, **Zhaoqiang Guo**, Peng Zhang, Yibiao Yang, Huihui Liu, Hongmin Lu, Yanhui Li, Lin Chen, Yuming Zhou\*. [**Towards a framework for reliable performance evaluation in defect prediction.**](https://www.sciencedirect.com/science/article/pii/S016764232400087X?via%3Dihub)  ***Science of Computer Programming***, 2024, 238:103164.
+- **<span style="color: #C2185B">CCF-B 📚</span>** Xutong Liu, Shiran Liu, **Zhaoqiang Guo**, Peng Zhang, Yibiao Yang, Huihui Liu, Hongmin Lu, Yanhui Li, Lin Chen, Yuming Zhou\*. **Towards a framework for reliable performance evaluation in defect prediction.** *Science of Computer Programming*, 2024, 238:103164. [**\[View\]**](https://www.sciencedirect.com/science/article/pii/S016764232400087X?via%3Dihub) 
 
-- **<span style="color: #C2185B">CCF-C 📚</span>** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou\*. [**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.**](https://www.worldscientific.com/doi/10.1142/S0218194023500110) ***International Journal of Software Engineering and Knowledge Engineering***, 2023, 33(5), 651-695.
+- **<span style="color: #C2185B">CCF-C 📚</span>** Yuanqing Mei, Yi Rong, Shiran Liu, **Zhaoqiang Guo**, Yibiao Yang, Hongmin Lu, Yutian Tang, Yuming Zhou\*.**Deriving thresholds of object-oriented metrics to predict defect-proneness of classes: A large-scale meta-analysis.** *International Journal of Software Engineering and Knowledge Engineering*, 2023, 33(5), 651-695. [**\[View\]**](https://www.worldscientific.com/doi/10.1142/S0218194023500110)
 
-- **<span style="color: #C2185B">CCF-A 📚</span>**  Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang, Lin Chen, Zhongbin Sun, Yuming Zhou\*, Baowen Xu. [**Inconsistent defect labels: Essential, causes, and influence.**](https://ieeexplore.ieee.org/document/9729569) ***IEEE Transactions on Software Engineering***. 2023, 49(2), 586-610.
+- **<span style="color: #C2185B">CCF-A 📚</span>**  Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Chuanqi Wang, Lin Chen, Zhongbin Sun, Yuming Zhou\*, Baowen Xu. **Inconsistent defect labels: Essential, causes, and influence.** *IEEE Transactions on Software Engineering*. 2023, 49(2), 586-610. [**\[View\]**](https://ieeexplore.ieee.org/document/9729569)
 
-- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou\*. [**Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.**](https://ieeexplore.ieee.org/document/10305541/) ***IEEE Transactions on Software Engineering***. 2023, 49(12), 5154-5188.
+- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Tingting Tan, Shiran Liu, Xutong Liu, Wei Lai, Yanhui Li, Lin Chen, Wei Dong, Yuming Zhou\*. **Mitigating false positive static analysis warnings: Progress, Challenges, and Opportunities.** *IEEE Transactions on Software Engineering*. 2023, 49(12), 5154-5188. [**\[View\]**](https://ieeexplore.ieee.org/document/10305541/)
 
-- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou\*. [**Code-line-level bugginess identification: How far have we come, and how far have we yet to go?**](https://dl.acm.org/doi/10.1145/3582572) ***ACM Transactions on Software Engineering and Methodology***, 2022, 32(4), 102:1-102:55.
+- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Shiran Liu, Xutong Liu, Wei Lai, Mingliang Ma, Xu Zhang, Chao Ni, Yibiao Yang, Yanhui Li, Lin Chen, Guoqiang Zhou, Yuming Zhou\*. **Code-line-level bugginess identification: How far have we come, and how far have we yet to go?** *ACM Transactions on Software Engineering and Methodology*, 2022, 32(4), 102:1-102:55. [**\[View\]**](https://dl.acm.org/doi/10.1145/3582572)
 
-- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou\*. [**How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.**](https://dl.acm.org/doi/10.1145/3447247) ***ACM Transactions on Software Engineering and Methodology***, 2021, 30(4), 45:1-45:56.
+- **<span style="color: #C2185B">CCF-A 📚</span>**  **Zhaoqiang Guo**, Shiran Liu, Jinping Liu, Yanhui Li, Lin Chen, Hongmin Lu, Yuming Zhou\*. **How far have we progressed in identifying self-admitted technical debts? A comprehensive empirical study.** *ACM Transactions on Software Engineering and Methodology*, 2021, 30(4), 45:1-45:56. [**\[View\]**](https://dl.acm.org/doi/10.1145/3447247)
 
-- **<span style="color: #C2185B">CCF-B 📚</span>** Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou\*, Baowen Xu. [**Prioritizing documentation effort: Can we do it simpler but better?**](https://www.sciencedirect.com/science/article/pii/S0950584921001440) ***Information of Software and Technology***. 2021, 140.
+- **<span style="color: #C2185B">CCF-B 📚</span>** Shiran Liu, **Zhaoqiang Guo**, Yanhui Li, Hongmin Lu, Lin Chen, Lei Xu, Yuming Zhou\*, Baowen Xu. **Prioritizing documentation effort: Can we do it simpler but better?** *Information of Software and Technology*. 2021, 140. [**\[View\]**](https://www.sciencedirect.com/science/article/pii/S0950584921001440)
 
-- **<span style="color: #C2185B">CCF-B 📚</span>** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou\*, Hongmin Lu, Lin Chen, Baowen Xu. [**Boosting crash-inducing change localization with rank-performance-based feature subset selection.**](https://doi.org/10.1007/s10664-020-09802-1) ***Empirical Software Engineering***, 2020, 25(3), 1905-1950.
+- **<span style="color: #C2185B">CCF-B 📚</span>** **Zhaoqiang Guo**, Yanhui Li, Wanwangying Ma, Yuming Zhou\*, Hongmin Lu, Lin Chen, Baowen Xu. **Boosting crash-inducing change localization with rank-performance-based feature subset selection.** *Empirical Software Engineering*, 2020, 25(3), 1905-1950. [**\[View\]**](https://doi.org/10.1007/s10664-020-09802-1)
 
 
 ### 📜 Domestic papers
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明\*. [**深度学习驱动的软件漏洞预测: 问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/7376) ***软件学报***, 2025, 36(11), 4906–4952.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 唐家昕, 王璇, 赖伟, 路则雨, **郭肇强**, 杨已彪, 周毓明\*. **深度学习驱动的软件漏洞预测: 问题、进展与挑战.** *软件学报*, 2025, 36(11), 4906–4952. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/7376)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明\*. [**测试集有效性评价：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6953) ***软件学报***, 2024, 35(2), 532–580.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 路则雨, 张鹏, 王洋, **郭肇强**, 杨已彪, 周毓明\*. **测试集有效性评价：问题、进展与挑战.** *软件学报*, 2024, 35(2), 532–580. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6953)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 周慧聪, **郭肇强(共一)**, 梅元清, 李言辉\*, 陈林, 周毓明\*. [**版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.**](https://www.jos.org.cn/jos/article/abstract/6401) ***软件学报***, 2023, 34(5), 2196–2217.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 周慧聪, **郭肇强(共一)**, 梅元清, 李言辉\*, 陈林, 周毓明\*. **版本失配和数据泄露对基于缺陷报告的缺陷定位模型的影响.** *软件学报*, 2023, 34(5), 2196–2217. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6401)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. [**软件缺陷预测模型间的比较实验：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6714) ***软件学报***, 2023, 34(2), 582–624.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 刘旭同, **郭肇强**, 刘释然, 张鹏, 卢红敏, 周毓明\*. **软件缺陷预测模型间的比较实验：问题、进展与挑战.** *软件学报*, 2023, 34(2), 582–624. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6714)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明\*. [**面向对象软件度量阈值的确定方法：问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6503) ***软件学报***, 2023, 34(1), 50-102.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** 梅元清, **郭肇强**, 周慧聪, 李言辉, 陈林, 卢红敏, 周毓明\*. **面向对象软件度量阈值的确定方法：问题、进展与挑战.** *软件学报*, 2023, 34(1), 50-102. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6503)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** **郭肇强**, 刘释然, 谭婷婷, 李言辉\*, 陈林, 周毓明\*, 徐宝文. [**自承认技术债的研究: 问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6292) ***软件学报***, 2022, 33(1), 26-54.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** **郭肇强**, 刘释然, 谭婷婷, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **自承认技术债的研究: 问题、进展与挑战.** *软件学报*, 2022, 33(1), 26-54. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6292)
 
-- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** **郭肇强**, 周慧聪, 刘释然, 李言辉\*, 陈林, 周毓明\*, 徐宝文. [**基于信息检索的缺陷定位: 问题、进展与挑战.**](https://www.jos.org.cn/jos/article/abstract/6087) ***软件学报***, 2020, 31(9), 2826−2854.
+- **<span style="color: #C2185B">CCF 中文A类期刊 📚</span>** **郭肇强**, 周慧聪, 刘释然, 李言辉\*, 陈林, 周毓明\*, 徐宝文. **基于信息检索的缺陷定位: 问题、进展与挑战.** *软件学报*, 2020, 31(9), 2826−2854. [**\[View\]**](https://www.jos.org.cn/jos/article/abstract/6087)
 
 
 ---

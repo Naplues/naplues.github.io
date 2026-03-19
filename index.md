@@ -54,7 +54,7 @@ Note:
 
 ### 📜 International Papers
 
-- **<span style="color: #C2185B">📚 CCF-A</span>** [**\[View\]**](https://dl.acm.org/doi/10.1145/3800963) Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**\*, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. **A roadmap for modern code review: Challenges and opportunities.** *ACM Transactions on Software Engineering and Methodology*, 2026-02-26, Accepted. **<span style="color: #FF0000">✨NEW✨</span>**
+- **<span style="color: #C2185B">📚 CCF-A</span>** [**\[View\]**](https://dl.acm.org/doi/10.1145/3800963) Zezhou Yang, Cuiyun Gao, **Zhaoqiang Guo**\*, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou. **A roadmap for modern code review: Challenges and opportunities.** *ACM Transactions on Software Engineering and Methodology*, 2026-02-26, Accepted.
 
 - **<span style="color: #C2185B">📚 arXiv</span>** [**\[View\]**](https://arxiv.org/abs/2511.21382) Bei Chu, Yang Feng\*, Kui Liu, **Zhaoqiang Guo**, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu. **Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities.** 2025. 
 

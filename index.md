@@ -29,10 +29,13 @@ My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's
 
 
 ## Experience
+- **(2026-06 ~ now) Zhejiang University, Hangzhou, China**  
+  - **Position:** ZJU 100 Young Professor 
+  - **Research Direction:** AI4SE.
 
-- **(2022-10 ~     now) Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China**  
+- **(2022-10 ~ 2026-06) Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China**  
   - **Position:** Senior Engineer
-  - **Research Direction:** AI4SE, Test Generation.
+  - **Research Direction:** AI4SE, Unit Test Generation.
 
 - **(2017-09 ~ 2022-08) Nanjing University, Nanjing, China**  
   - **Position:** Ph.D. Candidate

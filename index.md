@@ -6,8 +6,7 @@
       <h3>Zhaoqiang Guo</h3>
       <p><b>Status:</b> Ph.D. </p>
       <p><b>Institution:</b>Software Application Technology Lab, Huawei Technologies Co., Ltd.</p>
-      <p><b>E-mail:</b> gzq@smail.nju.edu.cn / gzq1012@outlook.com</p>
-      <p><b>Wechat:</b> gzqttt</p>
+      <p><b>E-mail:</b> gzq@smail.nju.edu.cn / gzq.qiang@gmail.com </p>
       <p><b>Address:</b> Huawei Hangzhou Research Institute, No. 410, Jianghong Road, Hangzhou, Zhejiang Province, P.R. China</p>
     </td>
     <td width="25%">

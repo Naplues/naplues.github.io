@@ -21,7 +21,7 @@
 
 ## Introduction
 
-My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's degree from Nanjing University of Science and Technology in 2017, and obtained my Ph.D. from Nanjing University in 2022, under the supervision of Professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. My doctoral research focused on software quality assurance techniques, such as **bug localization**, **self-admitted technical debts**, and **software defect prediction**. Currently, I am working as a Senior Engineer at Huawei, where I conduct research on AI for Software Engineering (AI4SE). Feel free to reach out for academic discussions.
+My name is **Zhaoqiang Guo (郭肇强)**. I received my Bachelor's degree from Nanjing University of Science and Technology in 2017, and obtained my Ph.D. from Nanjing University in 2022, under the supervision of Professor **[Yuming Zhou](https://cs.nju.edu.cn/zhouyuming/) (周毓明)**. My doctoral research focused on software quality assurance techniques, such as **bug localization**, **self-admitted technical debts**, and **software defect prediction**. Currently, I am working as a Senior Engineer at Huawei, where I conduct research on AI for Software Engineering (AI4SE). Feel free to reach out for academic discussions.
 
 
 ---
@@ -31,7 +31,7 @@ My name is **Zhaoqiang Guo (郭肇强)**, born in 1994. I received my Bachelor's
 - **2026-06 ~ now**
   - **Affiliation:** The State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China
   - **Position:** Researcher
-  - **Direction:** xxx.
+  - **Direction:** AI4SE.
 
 - **2022-10 ~ 2026-06**  
   - **Affiliation:** Hangzhou Huawei Communication Technology Co., Ltd., Hangzhou, China

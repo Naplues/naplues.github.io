@@ -279,10 +279,11 @@ ul li ul li::before {
 }
 .research-card {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  text-align: center;
-  padding: 1.1rem 0.9rem;
+  text-align: left;
+  gap: 1rem;
+  padding: 1.1rem 1.2rem;
   border: 1px solid var(--border);
   border-radius: 10px;
   background: var(--bg-soft);
@@ -296,16 +297,19 @@ ul li ul li::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 64px;
-  margin-bottom: 0.5rem;
+  flex-shrink: 0;
 }
 .research-img img {
   width: 56px;
   height: 56px;
   object-fit: contain;
 }
+.research-body {
+  flex: 1;
+  min-width: 0;
+}
 .research-card h3 {
-  margin: 0.2rem 0 0.4rem;
+  margin: 0 0 0.35rem;
   font-size: 0.98rem;
 }
 .research-card p {

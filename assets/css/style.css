@@ -89,7 +89,7 @@ a:hover { text-decoration: underline; }
 }
 
 .profile-name {
-  font-size: 1.9rem;
+  font-size: 1.45rem;
   font-weight: 700;
   line-height: 1.2;
   margin: 0 0 0.35rem;
@@ -219,5 +219,5 @@ em { font-style: italic; }
   }
   .profile-photo { justify-content: center; }
   .profile-info p.links { text-align: center; }
-  .profile-name { font-size: 1.6rem; }
+  .profile-name { font-size: 1.3rem; }
 }

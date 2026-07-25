@@ -126,14 +126,40 @@ a:hover { text-decoration: underline; }
 }
 
 /* Links row */
-.profile-info p.links a {
+.profile-info p.links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin-top: 0.3rem;
+}
+.links-label {
   display: inline-flex;
   align-items: center;
-  gap: 0.25rem;
 }
-.profile-info p.links a svg {
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.28rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--text);
+  font-size: 0.88rem;
+  font-weight: 500;
+  line-height: 1.4;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.social-btn svg {
   position: relative;
   top: -1px;
+}
+.social-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--bg-soft);
+  text-decoration: none;
 }
 
 /* ---------- Section headings ---------- */
@@ -208,39 +234,36 @@ ul li ul li::before {
 /* ---------- Experience ---------- */
 .experience { margin: 0.8rem 0; }
 .exp {
-  display: grid;
-  grid-template-columns: 9.5rem 1fr;
-  gap: 0.15rem 1.25rem;
-  padding: 0.85rem 1rem;
-  margin: 0.55rem 0;
-  border-left: 3px solid var(--accent);
-  background: var(--bg-soft);
-  border-radius: 0 8px 8px 0;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
 }
-.exp-period {
-  font-weight: 700;
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
-  font-size: 0.95rem;
-  line-height: 1.4;
+.exp:last-child { border-bottom: none; }
+.exp-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
 }
 .exp-position {
   font-weight: 700;
   color: #0d1b2a;
-  font-size: 1.02rem;
 }
-.exp-affil { color: var(--text); font-size: 0.95rem; }
+.exp-period {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.exp-affil { color: var(--text); font-size: 0.95rem; margin-top: 0.15rem; }
 .exp-extra { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.1rem; }
 .exp-label {
-  display: inline-block;
-  color: var(--text-muted);
   font-weight: 600;
-  margin-right: 0.4rem;
+  margin-right: 0.35rem;
 }
 .exp-label::after { content: ":"; }
 
 @media (max-width: 600px) {
-  .exp { grid-template-columns: 1fr; gap: 0.2rem; padding: 0.75rem 0.85rem; }
+  .exp-head { flex-direction: column; align-items: flex-start; gap: 0.1rem; }
 }
 
 /* ---------- Publications ---------- */
@@ -274,6 +297,6 @@ em { font-style: italic; }
     gap: 1rem;
   }
   .profile-photo { justify-content: center; }
-  .profile-info p.links { text-align: center; }
+  .profile-info p.links { justify-content: center; }
   .profile-name { font-size: 1.3rem; }
 }

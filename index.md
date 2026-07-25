@@ -1,8 +1,8 @@
 ## Basic Information
 
-<table border="0">
+<table >
   <tr>
-    <td width="75%">
+    <td>
       <h3> Zhaoqiang Guo </h3>
       <p><b> Status: </b> ZJU100 Young Professor </p>
       <p><b> Institution: </b> The State Key Laboratory of Blockchain and Data Security </p>
@@ -10,16 +10,12 @@
       <p><b> Address: </b> Yuquan Campus, Zhejiang University, 38 Zheda Road, Xihu District, Hangzhou, Zhejiang, 310027, China </p>
       <p><b> Links: </b>
         <a href="https://github.com/naplues"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#181717" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg> GitHub</a> ·
-        <a href="PLACEHOLDER_SCHOLAR"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#4285F4" d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 12.003 12 12.003c-2.977 0-5.548-.754-6.758-1.234zM12 13.5c2.5 0 4.5.56 4.5 1.25v2.25c0 .69-2 1.25-4.5 1.25s-4.5-.56-4.5-1.25v-2.25c0-.69 2-1.25 4.5-1.25zm0-9.5l6 4.5-1.5 1.125L12 6.5 7.5 9.625 6 8.5 12 4z"/></svg> Google Scholar</a> ·
-        <a href="PLACEHOLDER_ORCID"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#A6CE39" d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378a.825.825 0 1 1 0 1.65.825.825 0 0 1 0-1.65zM6.874 6.853h.99v9.294h-.99V6.853zm4.32 0h2.668c2.544 0 4.11 2.064 4.11 4.65 0 2.626-1.566 4.65-4.11 4.65h-2.668V6.853zm.99.905v7.489h1.594c1.984 0 3.072-1.622 3.072-3.744 0-2.08-1.105-3.745-3.072-3.745h-1.594z"/></svg> ORCID</a> ·
-        <a href="PLACEHOLDER_DBLP"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#004F9F" d="M3 4h2v14h12v2H3V4zm4-2h14v14H7V2zm2 2v10h10V4H9z"/></svg> DBLP</a>
+        <a href="https://scholar.google.com/citations?hl=en&user=J_igspgAAAAJ"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#4285F4" d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 12.003 12 12.003c-2.977 0-5.548-.754-6.758-1.234zM12 13.5c2.5 0 4.5.56 4.5 1.25v2.25c0 .69-2 1.25-4.5 1.25s-4.5-.56-4.5-1.25v-2.25c0-.69 2-1.25 4.5-1.25zm0-9.5l6 4.5-1.5 1.125L12 6.5 7.5 9.625 6 8.5 12 4z"/></svg> Google Scholar</a> ·
+        <a href="https://orcid.org/0000-0001-8971-5755"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#A6CE39" d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378a.825.825 0 1 1 0 1.65.825.825 0 0 1 0-1.65zM6.874 6.853h.99v9.294h-.99V6.853zm4.32 0h2.668c2.544 0 4.11 2.064 4.11 4.65 0 2.626-1.566 4.65-4.11 4.65h-2.668V6.853zm.99.905v7.489h1.594c1.984 0 3.072-1.622 3.072-3.744 0-2.08-1.105-3.745-3.072-3.745h-1.594z"/></svg> ORCID</a> ·
+        <a href="https://dblp.org/pid/251/9135.html"><svg viewBox="0 0 24 24" width="16" height="16" style="vertical-align:middle" aria-hidden="true"><path fill="#004F9F" d="M3 4h2v14h12v2H3V4zm4-2h14v14H7V2zm2 2v10h10V4H9z"/></svg> DBLP</a>
       </p>
-      <!-- TODO: 替换以下占位 URL 为真实主页 -->
-      <!-- PLACEHOLDER_SCHOLAR: https://scholar.google.com/citations?user=... -->
-      <!-- PLACEHOLDER_ORCID: https://orcid.org/... -->
-      <!-- PLACEHOLDER_DBLP: https://dblp.org/pid/... -->
     </td>
-    <td width="25%">
+    <td>
       <img src="photos/2022.jpg" width="100%" alt="Photo of Zhaoqiang Guo">
     </td>
   </tr>

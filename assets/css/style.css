@@ -280,10 +280,10 @@ ul li ul li::before {
 .research-card {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   text-align: left;
-  gap: 1rem;
-  padding: 1.1rem 1.2rem;
+  gap: 0.9rem;
+  padding: 0.9rem 1.1rem;
   border: 1px solid var(--border);
   border-radius: 10px;
   background: var(--bg-soft);
@@ -298,10 +298,16 @@ ul li ul li::before {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  margin-top: 0.1rem;
 }
 .research-img img {
-  width: 56px;
-  height: 56px;
+  width: 30px;
+  height: 30px;
   object-fit: contain;
 }
 .research-body {

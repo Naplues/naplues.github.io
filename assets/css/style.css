@@ -89,7 +89,7 @@ a:hover { text-decoration: underline; }
 }
 
 .profile-name-cn {
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: 500;
   color: var(--text-muted);
   margin-left: 0.4rem;

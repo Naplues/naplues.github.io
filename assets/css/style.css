@@ -87,7 +87,7 @@ a:hover { text-decoration: underline; }
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 1.5rem 2rem;
-  align-items: center;
+  align-items: start;
   margin-bottom: 1.5rem;
 }
 
@@ -107,6 +107,9 @@ a:hover { text-decoration: underline; }
 .profile-info b {
   color: var(--text-muted);
   font-weight: 600;
+}
+.profile-intro {
+  margin-top: 0.8rem;
 }
 
 .profile-photo {
@@ -356,5 +359,6 @@ em { font-style: italic; }
   }
   .profile-photo { justify-content: center; }
   .profile-info p.links { justify-content: center; }
+  .profile-intro { text-align: left; }
   .profile-name { font-size: 1.3rem; }
 }

@@ -15,7 +15,7 @@ This repository powers my personal website at **[naplues.github.io](https://napl
 - **Publications** — international and domestic papers (journals, conferences, arXiv)
 - **Appendix** — links to CCF publication catalogs
 
-Research interests focus on **AI for Software Engineering (AI4SE)**, including unit test generation, code review, bug localization, software defect prediction, and self-admitted technical debts.
+Current research focuses on the **intersection of blockchain and AI** — applying AI/LLM techniques to smart contract security and on-chain analysis, and leveraging blockchain for trustworthy AI. Earlier work focused on **AI for Software Engineering (AI4SE)**, including unit test generation, code review, bug localization, software defect prediction, and self-admitted technical debts.
 
 ## Repository Structure
 

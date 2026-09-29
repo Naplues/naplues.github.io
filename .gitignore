@@ -1,2 +1,6 @@
 .idea
 .DS_Store
+
+# Private "under submission" papers — plaintext, never committed.
+# Encrypted into assets/js/private-drafts.data.js by src/encrypt-drafts.mjs.
+resources/drafts.private.html

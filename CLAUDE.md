@@ -26,6 +26,18 @@ This is a small static site. The important pieces and how they connect:
 - **`photos/`** — profile/personal images referenced by `index.html` and `resources/cv.md`.
 - **`publications/`** — PDFs of papers, linked from the Publication section.
 
+## Private "under submission" papers (encrypted)
+
+The Publication section contains a hidden subsection for papers under submission, visible only to the site owner. Because the repo is public, the paper list is stored as **ciphertext** (`assets/js/private-drafts.data.js`) and decrypted in the browser — never as plaintext in any committed file.
+
+- **To view:** visit `https://naplues.github.io/#drafts` and enter the passphrase. The passphrase is never committed; keep it in a password manager.
+- **To update the list:** edit the plaintext in `resources/drafts.private.html` (**gitignored — never committed**), then re-encrypt:
+  ```bash
+  DRAFTS_PASSPHRASE='your passphrase' node src/encrypt-drafts.mjs
+  # or:  node src/encrypt-drafts.mjs   # prompts for the passphrase, input muted
+  ```
+  This regenerates `assets/js/private-drafts.data.js` (commit that file). The decrypt logic lives in `assets/js/private-drafts.js`; both use the Web Crypto API (PBKDF2 + AES-GCM), so encrypt and decrypt stay compatible. Crypto params (PBKDF2 iterations, AES-GCM 256, 12-byte IV) must match between the two files.
+
 ## CV generation (Python, unrelated to the live site)
 
 `src/generation.py` builds a Chinese CV PDF from `resources/cv.md` using the `md2pdf` library (`convert_markdown_to_pdf_html`, with Mermaid enabled, A4). It rewrites the `photos/2022.jpg` path to an absolute path before conversion and writes to `assets/<date> 郭肇强个人简历.pdf`. Run from the project venv:
